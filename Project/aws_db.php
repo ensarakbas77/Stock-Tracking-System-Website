@@ -1,8 +1,8 @@
 <?php
-$host = 'database-1.c34kakm0cfzi.eu-north-1.rds.amazonaws.com';
+$host = '';
 $dbname = 'stok_takip';
 $username = 'admin';
-$password = '7046!Ensar';
+$password = '';
 
 try {
     // PDO ile bağlantı oluştur
