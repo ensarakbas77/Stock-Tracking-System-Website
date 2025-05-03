@@ -42,10 +42,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
     
     // Veritabanı bağlantı parametreleri
-    $host = 'database-1.c34kakm0cfzi.eu-north-1.rds.amazonaws.com';
+    $host = '';
     $dbname = 'stok_takip';
     $dbUsername = 'admin';
-    $dbPassword = '7046!Ensar';
+    $dbPassword = '';
     
     try {
         // PDO ile veritabanı bağlantısı kur
