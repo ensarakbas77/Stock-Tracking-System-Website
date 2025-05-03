@@ -10,9 +10,9 @@ if (!isset($_SESSION['username'])) {
 }
 
 // Veritabanı bağlantısı
-$servername = "database-1.c34kakm0cfzi.eu-north-1.rds.amazonaws.com";
+$servername = "";
 $username = "admin";
-$password = "7046!Ensar";
+$password = "";
 $dbname = "stok_takip";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
