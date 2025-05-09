@@ -4,7 +4,9 @@
 **Frontend**: HTML, CSS, Javascript, Bootstrap </br>
 **Backend**: PHP </br>
 **Database**: AWS RDS (MySQL) </br>
-**Tools**: VS Code, MySQL Workbench </br> </br>
+**Tools**: VS Code, MySQL Workbench  </br>
+**Virtual Server:** AWS EC2 (Ubuntu 24.04)
+</br> </br>
 
 ### Kullanıcı Rolleri ve Yetkileri
 **Admin:** </br> 
